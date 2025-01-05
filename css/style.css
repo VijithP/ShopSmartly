@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Apply Roboto font */
+    font-weight: 400; /* Regular weight */
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif; /* Apply a different font for headings */
+    font-weight: 700; /* Bold weight for headings */
+}
+
+button {
+    font-family: 'Lato', sans-serif; /* Apply Lato font for buttons */
+    font-weight: 500; /* Medium weight */
+}
+
+
+.bg-silver
+{
+    background-color: #dcdcdc;
+}
+.bg-gold
+{
+    background-color: gold;
+}
+.bg-grey{
+    background-color:#e5e7e9
+}

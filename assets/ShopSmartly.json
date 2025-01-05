@@ -1,0 +1,192 @@
+{
+"ShopType":[
+ {
+  "shopTypeId": 1,
+  "name": "Clothing Stores",
+  "description": "Clothing Stores"
+ },
+ {
+  "shopTypeId": 2,
+  "name": "Electronics Stores",
+  "description": "Electronics Stores"
+ },
+ {
+  "shopTypeId": 3,
+  "name": "Food and Beverage Shops",
+  "description": "Food and Beverage Shops"
+ },
+ {
+  "shopTypeId": 4,
+  "name": "Grocery Stores",
+  "description": "Grocery Stores"
+ },
+ {
+  "shopTypeId": 5,
+  "name": "Others",
+  "description": "Others"
+ }
+],
+"Shop":[
+ {
+  "shopId": 1,
+  "shopCode": "NES",
+  "name": "Nesto",
+  "shopTypeId": 4,
+  "icon": "nesto.png",
+  "location": "FORUM CENTER, FORUM MALL, Pattambi Rd, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 2,
+  "shopCode": "REL",
+  "name": "Real",
+  "shopTypeId": 4,
+  "icon": "real.jpg",
+  "location": "Emirates mall, Calicut Rd, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 3,
+  "shopCode": "KER",
+  "name": "KR Bakes",
+  "shopTypeId": 3,
+  "icon": "krbakes.png",
+  "location": "X\/280, 281, Pattambi Rd, near Masjid, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 4,
+  "shopCode": "MIO",
+  "name": "Mio Bakes",
+  "shopTypeId": 3,
+  "icon": "mio.jpg",
+  "location": "We 1 Tower, Tirur - Calicut Road, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 5,
+  "shopCode": "AHM",
+  "name": "Asian Hyper Market",
+  "shopTypeId": 4,
+  "icon": "asian.jpg",
+  "location": "Amana Mall, Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 6,
+  "shopCode": "NAH",
+  "name": "Nahdi Kuzhimandhi",
+  "shopTypeId": 3,
+  "icon": "nahdi.png",
+  "location": "Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 7,
+  "shopCode": "BES",
+  "name": "Beauty Silks",
+  "shopTypeId": 1,
+  "icon": "beautysilks.jpg",
+  "location": "Edappal - Kuttippuram Rd, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 8,
+  "shopCode": "ZSS",
+  "name": "Zara Silks",
+  "shopTypeId": 1,
+  "icon": "zara.png",
+  "location": "SH69, Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "isactive": 1
+ },
+ {
+  "shopId": 9,
+  "shopCode": "TVE",
+  "name": "Thavayil Electronics ",
+  "shopTypeId": 2,
+  "icon": "thavayil.png",
+  "location": "kmh complex, Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "isactive": 1
+ }
+],
+"ShopDetails":[
+ {
+  "shopId": 1,
+  "description": "Nesto Hypermarket offers a wide range of products at competitive prices",
+  "address": "FORUM CENTER, FORUM MALL, Pattambi Rd, Edappal, Kerala 679576",
+  "phone": 9746311522,
+  "email":"info@example.com"
+ },
+ {
+  "shopId": 2,
+  "description": "Real Hypermarket in Edappal has a wide range of products and \/ or services to cater to the varied requirements of their customers.",
+  "address": "Emirates mall, Calicut Rd, Edappal, Kerala 679576",
+  "phone": "0494 296 7500"
+ },
+ {
+  "shopId": 3,
+  "description": "Kr Bakery in Edappal,Malappuram well known for Bakery Product Manufacturers in Malappuram",
+  "address": "X\/280, 281, Pattambi Rd, near Masjid, Edappal, Kerala 679576",
+  "phone": "092880 19696"
+ },
+ {
+  "shopId": 4,
+  "description": "Mio Bakes in Edappal, Malappuram is a renowned bakery offering a delectable range of freshly baked goods and pastries.",
+  "address": "We 1 Tower, Tirur - Calicut Road, Edappal, Kerala 679576",
+  "phone": "096563 30066"
+ },
+ {
+  "shopId": 5,
+  "description": "A good hypermarket with a large selection of goods in every market segment in the Edappal neighbourhood. This store offers a wide variety of personal and household goods.",
+  "address": "Amana Mall, Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "phone": "098952 90442"
+ },
+ {
+  "shopId": 6,
+  "description": "Down-to-earth restaurant preparing plentiful roasted & Arabian chicken dishes with rice.",
+  "address": "Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "phone": "095628 60863"
+ },
+ {
+  "shopId": 7,
+  "description": "Readymade garment retailer offering a wide range of fabrics for all fashion enthusiasts.",
+  "address": "Edappal - Kuttippuram Rd, Edappal, Kerala 679576",
+  "phone": "0494 268 1563"
+ },
+ {
+  "shopId": 8,
+  "description": "Silk saree retailer offering a wide range of exquisite collections for discerning customers.",
+  "address": "SH69, Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "phone": "0494 296 5050"
+ },
+ {
+  "shopId": 9,
+  "description": "Established in the year 2011, Thavayil Electronics World in Edappal, Malappuram is a top player in the category Electronic Component Dealers in the Malappuram.",
+  "address": "kmh complex, Thrissur - Kunnamkulam Rd, Edappal, Kerala 679576",
+  "phone": "0494 268 3578"
+ }
+],
+"ShopOffers":[
+ {
+  "shopId": 1,
+  "imageUrl": "nesto-offer-1.jpg",
+  "fromDate":"2025-01-01T12:00:00Z",
+  "toDate":"2025-01-10T12:00:00Z",
+  "isActive": 1
+ },
+ {
+  "shopId": 1,
+  "imageUrl": "nesto-offer-2.jpg",
+  "fromDate":"2025-01-01T12:00:00Z",
+  "toDate":"2025-01-10T12:00:00Z",
+  "isActive": 1
+ },
+ {
+  "shopId": 1,
+  "imageUrl": "nesto-offer-3.jpg",
+  "fromDate":"2025-01-02T12:00:00Z",
+  "toDate":"2025-01-10T12:00:00Z",
+  "isActive": 1
+ }
+]
+}
